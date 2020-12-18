@@ -3,6 +3,8 @@
 ### Sessió 14/12-18/12
 - Multiplicacions amb Callable i ThreadPoolExecutor
 - Exercici examinar alumnes de forma concurrent amb Callable i ThredPoolExecutor
+- Procés de transformació Concurrent->Sequencial i a la inversa
+- Exercici dels Paletes
 
  TODO
 > Tenim uns paletes que tenen la tasca de contruir una paret a base de posar maons.
