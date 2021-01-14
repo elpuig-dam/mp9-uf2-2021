@@ -29,8 +29,10 @@ public class Jugar {
 		schExService.scheduleWithFixedDelay(donar2, 5, 1, TimeUnit.SECONDS);
 		schExService.scheduleWithFixedDelay(llegir2, 3, 5, TimeUnit.SECONDS);
 
+
 		// Esperem a que passin els 25s o bé a que acabin tots
-		schExService.awaitTermination(25, TimeUnit.SECONDS);
+		schExService.awaitTermination(10, TimeUnit.SECONDS);
+		schExService.shutdownNow();
 
 		System.out.println("En " + jug.getNom() + " ha acabat amb " + jug.getPunts() + " punts");
 		System.out.println("En " + jug2.getNom() + " ha acabat amb " + jug2.getPunts() + " punts");
