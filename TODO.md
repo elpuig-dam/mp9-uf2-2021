@@ -12,7 +12,7 @@
 > Volem adaptar aquest codi perquè els paletes treballin alhora i no com ara, que fins que un paleta no ha posat els seus maons no continua l'altre.  
 > *_Atenció: fer servir Runnable en comptes de Callable_
 
-### Sessió 09-10/12
+### Sessió 11-15/01
 - [SchedulerThreadPoolExecutor](https://ioc.xtec.cat/materials/FP/Materials/2252_DAM/DAM_2252_M09/web/html/WebContent/u1/a1/continguts.html#executor)  
   
 TODO
