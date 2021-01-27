@@ -38,16 +38,23 @@ TODO
 > Modificar l'exercici [MaximTask.java](src/a2/MaximTask.java) perquè en comtes de resoldre el màxim de l'array
 > dividint-lo en dos, el divideixi en tres.
 
+### Sessió 25-29/01
+
 TODO  
 > Donada la classe [Client.java](src/a1/Client.java) la qual disposa d'un atribut que és un List que correspon al preu
 > dels productes que hi ha posat aquest client   
-> **Implementeu** un classe Caixa.java encarregada d'atendre a 1 client (no una llista, un a un)
+> **Implementeu** una classe Caixa.java encarregada d'atendre a 1 client (no una llista, un a un)
 > de manera que ens digui quin és el preu de tot el seu carret.  
 > A continuació implementeu un Main on hi podeu instanciar tants clients i caixes com vulgueu per tal que
 > el clients només hagin de fer cua en un caixa, però que les diferents caixes que instancieu puguin treballar
 > a la vegada.
 > 
 > **Qualsevol de les formes estudiades de processos és vàlida**
+
+TODO
+> Utilitzant la tècnica de restes successives implementar la operació de divisió entera. Cal utilitzar perquè sigui
+> més eficient una classe **RecursivetTask** i com a conseqüència les funcions que resolen el problema de forma recursiva
+> i de forma seqüencial.  
 
 
 
