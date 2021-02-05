@@ -6,6 +6,7 @@ public class MainBanc {
         CompteEstalvi compteEstalvi = new CompteEstalvi();
         Thread op1 = null;
         Thread op2 = null;
+        //Threads
         for(int i= 0; i < 1000; i++) {
             op1 = new Thread(() -> compteEstalvi.ingres(100));
             op2 = new Thread(() -> compteEstalvi.treu(50));
