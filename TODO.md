@@ -56,5 +56,7 @@ TODO
 > més eficient una classe **RecursivetTask** i com a conseqüència les funcions que resolen el problema de forma recursiva
 > i de forma seqüencial.  
 
+### Sessió 01-05/02
 
-
+- Semàfors i Monitors
+- Thread

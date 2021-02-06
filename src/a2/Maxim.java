@@ -7,7 +7,7 @@ public class Maxim {
 
 
     public static void main(String[] args) {
-        short[] data2 = createArray(100000000);
+        short[] data2 = createArray(1000000);
 
         short[] data = {1,2,40,500,505,34,56,987,1009,2345,67,0,345};
         // Mira el número de processadors
