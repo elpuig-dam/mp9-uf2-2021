@@ -60,3 +60,8 @@ TODO
 
 - Semàfors i Monitors
 - Thread
+- Exercici de classe: _Lluita pel comandament a distància_  
+
+### Sessió 08-12/02
+- Exercicis de classe:
+  - Cursa d'Atletes
