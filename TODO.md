@@ -65,3 +65,7 @@ TODO
 ### Sessió 08-12/02
 - Exercicis de classe:
   - Cursa d'Atletes
+  - Pot de Galetes
+  - Pot de Galetes versió 2 (pot deixar entrar un número determinat mans(processos) al pot)
+  - Filòsofs
+  
