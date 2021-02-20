@@ -66,6 +66,9 @@ TODO
 - Exercicis de classe:
   - Cursa d'Atletes
   - Pot de Galetes
+
+### Sessió 15-20/02
+  - Pot de Galetes
   - Pot de Galetes versió 2 (pot deixar entrar un número determinat mans(processos) al pot)
   - Filòsofs
   
