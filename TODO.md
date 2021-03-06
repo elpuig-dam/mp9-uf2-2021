@@ -70,5 +70,13 @@ TODO
 ### Sessió 15-20/02
   - Pot de Galetes
   - Pot de Galetes versió 2 (pot deixar entrar un número determinat mans(processos) al pot)
-  - Filòsofs
+  - Filòsofs  
+
+### Sessió 22-27/02
+  - Test
+  - Filòsofs i Taller de costura  
+
+### Sessió 1-5/03
+  - Taller de costura
+  - Exercici per pujar nota del test  
   
