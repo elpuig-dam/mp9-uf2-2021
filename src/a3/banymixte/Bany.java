@@ -19,6 +19,7 @@ public class Bany {
 	
 	public synchronized void entrar(short genere) {
 		try {
+
 			while ((estat!=0 && genere!=estat) || estat==4) wait();
 			//a dins
 			//si estava lliure posem l'estat del bany coincident amb el gènere que ha entrat
