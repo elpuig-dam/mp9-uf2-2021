@@ -15,3 +15,6 @@
 - Semàfors: **synchronized** (`CompteEstalvi.java`,`MainBanc.java`)
 - Monitors: wait(), notifyAll()
 - Exercicis amb monitors (Comandament, pot de galetes etc.)
+
+### a4
+- Exercicis de l'examen
